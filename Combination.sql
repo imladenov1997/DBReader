@@ -1,0 +1,12 @@
+INSERT INTO Combination (combId, elementOneId, elementTwoId) VALUES (1, 1, 1);
+INSERT INTO Combination (combId, elementOneId, elementTwoId) VALUES (2, 3, 3);
+INSERT INTO Combination (combId, elementOneId, elementTwoId) VALUES (3, 6, 6);
+INSERT INTO Combination (combId, elementOneId, elementTwoId) VALUES (4, 7, 7);
+INSERT INTO Combination (combId, elementOneId, elementTwoId) VALUES (5, 8, 8);
+INSERT INTO Combination (combId, elementOneId, elementTwoId) VALUES (6, 1, 6);
+INSERT INTO Combination (combId, elementOneId, elementTwoId) VALUES (7, 1, 7);
+INSERT INTO Combination (combId, elementOneId, elementTwoId) VALUES (8, 1, 8);
+INSERT INTO Combination (combId, elementOneId, elementTwoId) VALUES (9, 6, 8);
+INSERT INTO Combination (combId, elementOneId, elementTwoId) VALUES (10, 3, 1);
+INSERT INTO Combination (combId, elementOneId, elementTwoId) VALUES (11, 7, 8);
+INSERT INTO Combination (combId, elementOneId, elementTwoId) VALUES (12, 6, 7);
